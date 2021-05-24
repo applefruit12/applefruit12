@@ -3,5 +3,5 @@
 - 🌱 I made Devs!.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
-discord: applefruit#1406
+discord: applefruit#0001
 
