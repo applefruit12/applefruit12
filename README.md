@@ -3,8 +3,6 @@
 - 🌱 I made Devs!.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
-- - - - - discord: applefruit#0001
-- - - - sup
-- - - sup
-- - why u looking at my github
-- stalker 
+
+### Discord
+<img src="https://discord.c99.nl/widget/theme-4/538173290557210636.png"/>
